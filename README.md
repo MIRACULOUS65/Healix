@@ -1,6 +1,4 @@
 # HEALIX – Privacy-First Healthcare Ecosystem
-## 🎥 HEALIX Demo
-
 [![Healix Demo Video](./healix-app/public/healix.png)](https://youtu.be/_Km0i77k7SM)
 
 ▶️ **[Watch Demo Video on Youtube](https://youtu.be/_Km0i77k7SM)**
