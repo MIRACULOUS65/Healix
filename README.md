@@ -1,4 +1,10 @@
-# HELIX – Privacy-First Healthcare Ecosystem
+# HEALIX – Privacy-First Healthcare Ecosystem
+## 🎥 HEALIX Demo
+
+[![Healix Demo Video](./healix-app/public/healix.png)](https://youtu.be/_Km0i77k7SM)
+
+▶️ **[Watch Demo Video on Youtube](https://youtu.be/_Km0i77k7SM)**
+
 
 HELIX is a **role-based healthcare platform** designed to give patients full control over their medical data, accelerate doctor workflows with AI summaries, and ensure pharmacy and medicine supply-chain integrity through QR codes and blockchain verification. Built with **Next.js** (App Router), **TypeScript**, and **Tailwind CSS**, HELIX unifies frontend and backend in a modular, full-stack architecture optimized for fast development. The system supports **five user roles** (Patient, Doctor, Hospital, Pharmacy, Vendor), each with a dedicated dashboard and permissions. In HELIX, patients upload their documents and explicitly grant access to hospitals; doctors see only AI-generated summaries; pharmacies scan secure QR prescriptions; and vendors register medicines on-chain for authenticity checks. This README summarizes the architecture, tech stack, role flows, and development setup of HELIX.
 
